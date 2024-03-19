@@ -2,7 +2,7 @@
 
 I'm zoen (Enzo), a first generation Engineer who works at PUC School of Engineering
 
-- 🔭 I’m currently working on research in community impact of engineering projects
+- 🔭 I’m currently working on research in community and social impact of engineering projects
 - 🌱 I’m a Magister in Public Policy student at PUC School of Government
 - 👯 I’m looking to collaborate on Engineering Education, intersectionality of inequalities, Economy, Technology and Development, ...
 - 🤔 I’m looking for help with simulation routines
